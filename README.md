@@ -1,6 +1,38 @@
-# wisedose
+# 💊 WiseDose
 
-A new Flutter project.
+**WiseDose** is a mobile application designed to help patients manage their medications more effectively while providing pharmacists and admins with tools to support and monitor users. It addresses common challenges such as forgotten doses, lack of stock alerts, missing side effect knowledge, and communication gaps.
+
+---
+
+## 👥 User Roles
+
+- **Patient**: Can register, view medications, receive stock reminders, search side effects  and contact pharmacists.
+- **Pharmacist**: Can log in, assign and manage patient medications, and respond to messages.
+- **Admin**: Can log in, view and manage system users with different roles.
+
+---
+
+## ✨ Key Features
+
+- Login system with role-based dashboards
+- Patient medication tracking (dose, duration, side effects, stock)
+- One-way messaging between patients and pharmacists
+- User management by admin
+- Smart reminders for low medication stock
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: Flutter
+- **Backend**: Firebase
+- **Database**: Firestore 
+- **Authentication**: Role-based login
+
+---
+
+*Built to improve medication safety, support pharmacist communication, and empower patient independence.*
+
 
 ## Getting Started
 
